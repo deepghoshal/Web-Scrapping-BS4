@@ -1,2 +1,2 @@
 # Web-Scrapping-BS4
-A practice .html file introduced and legal site of Book store -M  for practicing web scraping using BS4 and selenium in python3
+For practice purpose a Book.html file introduced with a legal site of Book store -Mangement for practicing web scraping using BS4 and selenium in python3
